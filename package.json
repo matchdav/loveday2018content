@@ -1,0 +1,6 @@
+{
+    "name":"loveday-campaign-2018",
+    "scripts":{
+        "build":"echo build"
+    }
+}
